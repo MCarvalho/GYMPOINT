@@ -9,7 +9,7 @@
 
     >docker run --name GympointPost -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres:11 
 
-    >obs: É necessário a criação da database no PostgreSQL, sugiro o nome "gympoin".
+    >obs: É necessário a criação da database no PostgreSQL, sugiro o nome "gympoint".
 
   * Redis:
 
